@@ -16,5 +16,6 @@
         * [for of 迭代对象](CoffeeScript/for-of-迭代对象.md)
         * [class 继承 super](CoffeeScript/class-继承-super.md)
         * [解构赋值](CoffeeScript/解构赋值.md)
-        * [插入JS代码](CoffeeScript/插入js代码.md)
+        * [其他](CoffeeScript/插入js代码.md)
+* [Vuejs](Vue.js/vue.md)
 
