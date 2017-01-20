@@ -27,4 +27,5 @@
         * [img-loader](Webpack/img-loader.md)
         * [css-module](Webpack/css-module.md)
     * [插件](Webpack/插件.md)
+        * [全局插件变量](Webpack/全局插件变量.md)
 
