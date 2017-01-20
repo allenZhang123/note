@@ -7,4 +7,5 @@
     * [常用命令](CoffeeScript/常用命令.md)
     * [编译器](CoffeeScript/编译器.md)
     * [REPL](CoffeeScript/repl.md)
+    * [运行Coffee](CoffeeScript/运行coffee.md)
 
