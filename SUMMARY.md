@@ -8,4 +8,6 @@
     * [编译器](CoffeeScript/编译器.md)
     * [REPL](CoffeeScript/repl.md)
     * [运行Coffee](CoffeeScript/运行coffee.md)
+    * [coffeescript语法](CoffeeScript/coffeescript语法.md)
+        * [操作符和aliase](CoffeeScript/操作符和aliase.md)
 
