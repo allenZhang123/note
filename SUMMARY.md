@@ -31,4 +31,5 @@
         * [暴露全局变量](Webpack/暴露全局变量.md)
     * [环境变量](Webpack/环境变量.md)
     * [开发环境](Webpack/开发环境.md)
+* [ES6](es6.md)
 
