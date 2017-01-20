@@ -13,4 +13,5 @@
         * [函数](CoffeeScript/函数.md)
         * [if else unless](CoffeeScript/if-else-unless.md)
         * [循环和推导式](CoffeeScript/循环和推导式.md)
+        * [for of 迭代对象](CoffeeScript/for-of-迭代对象.md)
 
