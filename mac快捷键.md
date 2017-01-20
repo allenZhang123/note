@@ -12,7 +12,6 @@
 - cmd+shift+t  打开当前文件终端
 
 - Shift-Command-C 打开开发者工具（浏览器为活动窗口）
-					打开finder （finder为活动窗口）
           
 - Shift-Command-G 前往窗口
 
