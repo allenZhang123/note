@@ -15,4 +15,5 @@
         * [循环和推导式](CoffeeScript/循环和推导式.md)
         * [for of 迭代对象](CoffeeScript/for-of-迭代对象.md)
         * [class 继承 super](CoffeeScript/class-继承-super.md)
+        * [解构赋值](CoffeeScript/解构赋值.md)
 
