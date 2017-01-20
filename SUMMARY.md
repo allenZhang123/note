@@ -21,4 +21,7 @@
 * [Webpack](Webpack/webpack.md)
     * [模块系统](Webpack/模块系统.md)
     * [安装使用](Webpack/安装使用.md)
+    * [Loader](Webpack/loader.md)
+        * [css-loader](Webpack/css-loader.md)
+        * [Babel-loader](Webpack/babel-loader.md)
 
