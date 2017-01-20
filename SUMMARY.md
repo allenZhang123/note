@@ -24,4 +24,5 @@
     * [Loader](Webpack/loader.md)
         * [css-loader](Webpack/css-loader.md)
         * [Babel-loader](Webpack/babel-loader.md)
+        * [img-loader](Webpack/img-loader.md)
 
